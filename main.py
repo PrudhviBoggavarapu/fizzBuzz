@@ -1,5 +1,4 @@
-# numberCount = input('Until When do i stop?\n')
-numberCount = 1000
+numberCount = input('Until When do i stop?\n')
 
 
 for x in range(int(numberCount)):
